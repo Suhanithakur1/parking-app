@@ -19,21 +19,13 @@ bash
 Copy code
 📁 /parking-app
 ├── app.py               # Main Flask app
-
 ├── models.py            # Database models (User, ParkingLot, ParkingSpot, Reservation)
-
 ├── templates/           # HTML files with Jinja2
-
 ├── static/              # CSS/JS assets
-
 ├── instance/site.db     # SQLite database
-
 ├── venv/                # Python virtual environment
-
 ├── db_setup.py          # Script to create DB and default admin
-
 ├── requirements.txt     # Dependencies
-
 └── NOTES.md             # My personal learning notes & explanations
 
 ## 🧠 Learning Notes
