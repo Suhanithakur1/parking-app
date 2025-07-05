@@ -18,6 +18,7 @@ Code and learning notes for my multi-user Parking Management App built using Fla
 bash
 Copy code
 📁 /parking-app
+
 ├── app.py               # Main Flask app
 
 ├── models.py            # Database models (User, ParkingLot, ParkingSpot, Reservation)
